@@ -1,0 +1,2 @@
+# Beira-Noticias
+geral
